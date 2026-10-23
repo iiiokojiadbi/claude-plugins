@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "iiiokojiadbi",
+  "description": "Claude Code plugins by iiiokojiadbi",
+  "owner": { "name": "iiiokojiadbi" },
+  "plugins": [
+    {
+      "name": "infinity-shift",
+      "description": "The agent shifts itself at a stage boundary: keeps a work board and tasks, writes itself a letter, steers the compaction and resumes from the letter",
+      "author": { "name": "iiiokojiadbi" },
+      "homepage": "https://github.com/iiiokojiadbi/infinity-shift",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/iiiokojiadbi/infinity-shift.git",
+        "path": "adapters/claude-code",
+        "ref": "main"
+      }
+    }
+  ]
+}
