@@ -13,7 +13,7 @@
         "source": "git-subdir",
         "url": "https://github.com/iiiokojiadbi/infinity-shift.git",
         "path": "adapters/claude-code",
-        "ref": "main"
+        "ref": "infinity-shift--v0.1.0"
       }
     }
   ]
