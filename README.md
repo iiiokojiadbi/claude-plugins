@@ -9,4 +9,4 @@ claude plugin install <plugin>@iiiokojiadbi
 
 | Plugin | What it does |
 |---|---|
-| [infinity-shift](https://github.com/iiiokojiadbi/infinity-shift) | The agent shifts itself at a stage boundary: keeps strict work records, writes itself a letter, steers the compaction and continues where it stopped |
+| [shift](https://github.com/iiiokojiadbi/shift) | The agent shifts itself at a stage boundary: keeps strict work records, writes itself a letter, steers the compaction and continues where it stopped |
