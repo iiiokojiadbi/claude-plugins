@@ -13,7 +13,7 @@
         "source": "git-subdir",
         "url": "https://github.com/iiiokojiadbi/shift.git",
         "path": "adapters/claude-code",
-        "ref": "shift--v0.33.0"
+        "ref": "shift--v0.34.0"
       }
     }
   ]
