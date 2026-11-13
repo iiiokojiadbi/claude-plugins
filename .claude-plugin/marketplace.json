@@ -15,6 +15,30 @@
         "path": "adapters/claude-code",
         "ref": "shift--v0.36.1"
       }
+    },
+    {
+      "name": "herdr-orchestrator",
+      "description": "Native tools for the lead agent to start, task, wait on, read and stop herdr workers",
+      "author": { "name": "iiiokojiadbi" },
+      "homepage": "https://github.com/iiiokojiadbi/herdr-setup",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/iiiokojiadbi/herdr-setup.git",
+        "path": "dist/herdr-orchestrator",
+        "ref": "herdr--v0.1.0"
+      }
+    },
+    {
+      "name": "herdr-worker",
+      "description": "Reports results and blockers from a herdr worker to its parent agent",
+      "author": { "name": "iiiokojiadbi" },
+      "homepage": "https://github.com/iiiokojiadbi/herdr-setup",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/iiiokojiadbi/herdr-setup.git",
+        "path": "dist/herdr-worker",
+        "ref": "herdr--v0.1.0"
+      }
     }
   ]
 }
