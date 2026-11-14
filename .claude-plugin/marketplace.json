@@ -25,7 +25,7 @@
         "source": "git-subdir",
         "url": "https://github.com/iiiokojiadbi/herdr-setup.git",
         "path": "dist/herdr-orchestrator",
-        "ref": "herdr--v0.1.0"
+        "ref": "herdr--v0.2.0"
       }
     },
     {
@@ -37,7 +37,7 @@
         "source": "git-subdir",
         "url": "https://github.com/iiiokojiadbi/herdr-setup.git",
         "path": "dist/herdr-worker",
-        "ref": "herdr--v0.1.0"
+        "ref": "herdr--v0.2.0"
       }
     }
   ]
