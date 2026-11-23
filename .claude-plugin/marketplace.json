@@ -6,14 +6,14 @@
   "plugins": [
     {
       "name": "shift",
-      "description": "The agent shifts itself at a stage boundary: keeps a work board and tasks, writes itself a letter, steers the compaction and resumes from the letter",
+      "description": "Keep project records and continue long work from a letter after a shift. Includes an optional project task tracker.",
       "author": { "name": "iiiokojiadbi" },
       "homepage": "https://github.com/iiiokojiadbi/shift",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/iiiokojiadbi/shift.git",
         "path": "adapters/claude-code",
-        "ref": "shift--v0.40.0"
+        "ref": "shift--v0.41.0"
       }
     },
     {
